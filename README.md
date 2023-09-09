@@ -1,7 +1,6 @@
 # Validador-de-CPF_C
-Este repositório contém um programa em C para validar CPFs brasileiros e identificar a região associada. Contribuições são bem-vindas. 👍
 
-Este repositório contém um programa em linguagem C para validar números de CPF (Cadastro de Pessoas Físicas) brasileiros. O CPF é um documento de identificação único atribuído a cidadãos brasileiros e é essencial em diversas transações e serviços.
+Este repositório contém um programa em linguagem C para validar números de CPF (Cadastro de Pessoas Físicas) brasileiros. O CPF é um documento de identificação único atribuído a cidadãos brasileiros e é essencial em diversas transações e serviços. 👍
 
 **Funcionalidades Principais:**
 - Validação de CPF: O programa verifica se um número de CPF inserido é válido ou não, seguindo as regras de cálculo dos dígitos verificadores.
@@ -19,9 +18,6 @@ Você pode contribuir para este projeto de diversas maneiras, como:
 - Adicionando recursos adicionais, como validação de outros documentos de identificação.
 - Traduzindo mensagens e descrições para outros idiomas.
 - Corrigindo erros ou problemas.
-
-**Licença:**
-Este projeto é licenciado sob a [inserir tipo de licença]. Consulte o arquivo [NOME_DO_ARQUIVO_DE_LICENÇA] para obter detalhes.
 
 **Agradecimentos:**
 Agradecemos a todos os contribuidores que ajudaram a melhorar este validador de CPF e a todos que o utilizam.
